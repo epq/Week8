@@ -38,12 +38,12 @@ function reply() {
     if(output.length > 0){
         if(document.getElementById('longest').checked){
             lOutput = output[0].output.sort((a, b) => b.length - a.length);
-            appendToOutput(lOutput[0]);
+            appendToOutput(lOutput[0], 1);
         }else if(document.getElementById('shortest').checked){
             sOutput = output[0].output.sort((a, b) => a.length - b.length );
-            appendToOutput(sOutput[0]);
+            appendToOutput(sOutput[0], 1);
         }else{
-            appendToOutput(output[0].output[randomNumber]);
+            appendToOutput(output[0].output[randomNumber], 1);
         }
 
     }else{
