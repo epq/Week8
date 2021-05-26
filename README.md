@@ -1,12 +1,7 @@
-# Week8 - Chatbot
+Chatbot
 
-See the instructions [here](https://docs.google.com/document/d/1123vh08osRkCyqsnyR0SQMC1n4l0DlDIS0OYSrPSlY0/edit?usp=sharing) for the first part of your chatbot, or read below:
+Preview https://hamzakoc.github.io/CHATBOT-PART-I/
 
-**Due Date: Sunday, September 15 at 6:00 p.m.**
-
-Complete the following assignment and create a pull request to GitHub for reviewing by the instructor. 
-
-The homework assignments for the next few lectures will be interconnected. By the end of JavaScript 2, you will have developed a fully functional chatbot. These assignments will build on the previous week's assignment, therefore, it is very important that you complete the assignment in a timely manner (i.e. by the due date).
 
 ## CHATBOT PART I
 
@@ -42,26 +37,3 @@ You are provided the HTML and CSS code for this assignment in this repository. Y
     Alternatively, you can modify the HTML to add a `<form>` element around the `<input>` and `<button>` and attach an event listener the form's `submit` event. This will allow you to use the enter key to enter input as well.
 8. Save your JavaScript code. You now have a functional simple chatbot. Try it out by opening the 'index.html' file in your browser. REMEMBER to include your JavaScript code in the ‘index.html’ file either internally or externally.
 
-### SUBMISSION
-
-Before submitting your assignment, remember to organize your code according to the best practices for structuring code files. This means:
-
-*   HTML, CSS, and JS code should be in separate files
-*   All files should be organized into their respective folders
-*   [Read this article for more info](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-
-### EVALUATION
-
-When evaluating this assignment, we will be looking for:
-
-*   Proper code formatting
-*   Correct structuring of code files
-*   Descriptive comments within code
-*   Functionality of the chatbot (if it’s working or not)
-
-### BONUS
-
-Try out different ‘input’ and ‘output’ statements with the chatbot. 
-HINT: you will need these in part 2.
-
-Add your own CSS and/or restructure the HTML to your liking. Make your chatbot unique!
